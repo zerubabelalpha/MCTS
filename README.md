@@ -1,8 +1,8 @@
 # Adaptive Dynamic Task Scheduling Using Monte Carlo Tree Search
 
->  [problem statment](https://docs.google.com/document/d/1sz2WPpC8t0Kf-uFQaVdgr8xVSBi7BjjLfBIbKUQPqTI/edit?usp=sharing)
->  [The Four loops](https://docs.google.com/document/d/1TGMiA3HHQqc0LSGlHI_K7glODNmTqjShlPSRQQGx4oE/edit?usp=sharing)
->  [why mcts ?](https://docs.google.com/document/d/1U_F2LXZ76slFiQZVdKtY9c4jshr03OWxRP98lK2l_tI/edit?usp=sharing)
+-  [problem statment](https://docs.google.com/document/d/1sz2WPpC8t0Kf-uFQaVdgr8xVSBi7BjjLfBIbKUQPqTI/edit?usp=sharing)
+-  [The Four loops](https://docs.google.com/document/d/1TGMiA3HHQqc0LSGlHI_K7glODNmTqjShlPSRQQGx4oE/edit?usp=sharing)
+-  [why mcts ?](https://docs.google.com/document/d/1U_F2LXZ76slFiQZVdKtY9c4jshr03OWxRP98lK2l_tI/edit?usp=sharing)
 
 
 A lightweight, modular scheduling simulator where an MCTS-based scheduler dynamically assigns tasks to workers and is compared head-to-head against FIFO and Priority baselines — all visualised in real-time via Pygame.
